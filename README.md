@@ -20,11 +20,10 @@ An industry-grade Excel dashboard designed to analyze and optimize recruitment w
 ---
 
 ## 🛠️ Tech Stack & Skills Applied
-* **Tool:** Microsoft Excel (Advanced)
-* **Data Modeling:** Star Schema design and PivotTable architecture.
+* **Tool:** Microsoft Excel 
+* **Data Modeling:** PivotTable architecture.
 * **Data Visualization:** Custom chart formatting, sorting logic, and UX/UI design principles.
-* **VBA (Optional):** Automated interface cleanup and "Reset All Filters" functionality.
-* **Functions:** `VLOOKUP`, `INDEX-MATCH`, `IFERROR`, and complex DAX-style measures in PivotTables.
+* **Functions:**  `INDEX-MATCH`, `IFERROR`.
 
 ---
 
