@@ -5,7 +5,7 @@ An industry-grade Excel dashboard designed to analyze and optimize recruitment w
 ---
 
 ## 🖼️ Dashboard Preview
-![Hiring Process Dashboard](Hiring_Dashboard_Screenshot.png)
+![Hiring Process Dashboard](Hiring_Dashboard.png)
 *Full-screen interactive dashboard featuring custom slicers, sorted data visualizations, and optimized KPI tracking.*
 
 ---
